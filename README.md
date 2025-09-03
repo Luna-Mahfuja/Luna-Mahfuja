@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Luna-Mahfuja
 - 👀 I’m interested in Epidemiology
-- 🌱 I’m currently learning Rstudioand SAS
-- 💞️ I’m looking to collaborate on public health research
+- 🌱 I’m currently learning R and SAS analytical software
 - 📫 How to reach me drmahfujaluna.nipsom@gmail.com
 - 😄 Pronouns: she/her
   
